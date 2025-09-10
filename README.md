@@ -1,5 +1,7 @@
 ## Componentes, Props e Estilização
 
+(O conteúdo descrito aqui será apresentado à turma como desafio de construção e aplicação personalizada em seus respectivos projetos)
+
 ### Título
 
 Construindo a Interface: Componentes Reutilizáveis e Estilo com `props`
